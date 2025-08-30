@@ -1,1 +1,11 @@
 # links
+[figma](https://www.figma.com/design/9XjV2lf1zza41v547DtIoX/Devfest-gnr?node-id=0-1&t=6zodLXdRmRbbpXFG-1 )
+[devfest 25 drive folder](https://drive.google.com/drive/folders/1VbtmMtPaHtjvYW9f0mPHlxmc9TRB_2Cw)
+[socaila media planning sheet](https://docs.google.com/spreadsheets/d/1YT8qzQ45NA702YIh7y3qPbKebBMiM_rukoVYr1qaNBA/edit?gid=0#gid=0)
+[devfest blanket folder](https://drive.google.com/drive/folders/1H7dS7r40z9qtTXqPs9Dyn2qrx2fMszcN)
+[devfest 17 photos](https://photos.app.goo.gl/5rg5K8xsQ9yD9sBE6)
+[devfest 24 photos](https://photos.app.goo.gl/PVyyEo9n2FKNW4jZ6)
+[devfest 24 photos](https://photos.google.com/share/AF1QipN-bvBMFN_xk77V1uzuLrhQOrkoM2iHQldvrv23WscbUCJ_TJlzcoAm3-Atq82Ehw?key=alZtT1h3QkJyMEJCUmVhRmRLeEVfeXF5WEllVTR3)
+[devfest 23 photos](https://photos.google.com/share/AF1QipN9WByh1K3cKQGN-lPT0vShzE5G_5lF8ae7nU3qgkb5dYh6JHLtyYpOMONG3mvMgA?key=T3h2bE0zVU5hcWp4bnJva0hwRm1fcGFMQkRyNXpn)
+[devfest 18 photos](https://photos.google.com/share/AF1QipN0Nv5PiIum6KVUDvE6cAN7pmO8QbHLOj3nCqPPfNW8ZK4sjvITn1seCGDzkHqMlQ?key=djBIbkVYcUU1QlZYOXRlYWhwQkhzaFhvVjNMWGR3)
+[memes](https://www.reddit.com/r/ProgrammerHumor/)
